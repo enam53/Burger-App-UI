@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:BurgerApp" x:Class="BurgerApp.MainPage">
+    <AbsoluteLayout BackgroundColor="Black">
+        <Image Source="burger" AbsoluteLayout.LayoutBounds="0,0.78" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Button Image="backicon" BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds="0.02,0.03" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Button Image="heart" BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds="0.95,0.03" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Label Text="Cheese Burger" TextColor="White" FontSize="35" FontAttributes="Bold" AbsoluteLayout.LayoutBounds="0.1,0.15,0.35,AutoSize" AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional" />
+       <Label Text="325g" TextColor="White" FontSize="Small" AbsoluteLayout.LayoutBounds="0.9,0.15" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Label Text="$2.15" TextColor="#fce535" FontSize="40" FontAttributes="Bold" AbsoluteLayout.LayoutBounds="0.9,0.2" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <BoxView Margin="7" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0,1,1,0.18" AbsoluteLayout.LayoutFlags="All" />
+        <Label Text="Ingredients" FontSize="20" FontAttributes="Bold" AbsoluteLayout.LayoutBounds="0.1,0.88" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Button Text="Add to Cart" BackgroundColor="#fce535" AbsoluteLayout.LayoutBounds="0.5, 0.98 , 0.8, 0.08" AbsoluteLayout.LayoutFlags="All" />
+    </AbsoluteLayout>
+</ContentPage>
+

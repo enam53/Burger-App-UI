@@ -1,0 +1,12 @@
+/Users/ruman/Projects/BurgerApp/BurgerApp/bin/Debug/netstandard2.0/BurgerApp.deps.json
+/Users/ruman/Projects/BurgerApp/BurgerApp/bin/Debug/netstandard2.0/BurgerApp.dll
+/Users/ruman/Projects/BurgerApp/BurgerApp/bin/Debug/netstandard2.0/BurgerApp.pdb
+/Users/ruman/Projects/BurgerApp/BurgerApp/obj/Debug/netstandard2.0/BurgerApp.csprojAssemblyReference.cache
+/Users/ruman/Projects/BurgerApp/BurgerApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ruman/Projects/BurgerApp/BurgerApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ruman/Projects/BurgerApp/BurgerApp/obj/Debug/netstandard2.0/BurgerApp.csproj.CoreCompileInputs.cache
+/Users/ruman/Projects/BurgerApp/BurgerApp/obj/Debug/netstandard2.0/BurgerApp.AssemblyInfoInputs.cache
+/Users/ruman/Projects/BurgerApp/BurgerApp/obj/Debug/netstandard2.0/BurgerApp.AssemblyInfo.cs
+/Users/ruman/Projects/BurgerApp/BurgerApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ruman/Projects/BurgerApp/BurgerApp/obj/Debug/netstandard2.0/BurgerApp.dll
+/Users/ruman/Projects/BurgerApp/BurgerApp/obj/Debug/netstandard2.0/BurgerApp.pdb
